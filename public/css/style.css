@@ -1,0 +1,11 @@
+.logo{
+    width: 130px;
+    margin: auto;
+}
+
+.footer{
+    position: absolute;
+    bottom: 2%;
+    left: 50%;
+    transform: translateX(50%);
+}
